@@ -1,0 +1,58 @@
+#image{
+    max-width: 100%;
+    height: auto;
+}
+#myButton1 {
+position: absolute; /* אפשר למקם אותו בצורה גמישה על הדף */
+    top: 75%; /* מיקום מהקצה העליון */
+    left: 42%; /* מיקום מהקצה השמאלי */
+    width: 180px; /* רוחב הכפתור */
+    height: 180px; /* גובה הכפתור */
+    border-radius: 50%; /* עיגול הכפתור */
+    background-color: #f56ddeb5;
+    color: white;
+    border: none;
+    display: flex; /* אפשר למרכז את הטקסט בתוך הכפתור */
+    align-items: center; /* ממרכז את התוכן אנכית */
+    justify-content: center; /* ממרכז את התוכן אופקית */
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;/* ממרכז את הטקסט בתוך הכפתור */
+   
+}
+
+#myButton2 {
+    position: absolute; /* אפשר למקם אותו בצורה גמישה על הדף */
+    top: 36%; /* מיקום מהקצה העליון */ 
+    left:62%; /* מיקום מהקצה השמאלי */
+    width: 180px; /* רוחב הכפתור */
+    height: 180px; /* גובה הכפתור */
+    border-radius: 50%; /* עיגול הכפתור */
+    background-color: #f1e34bb5;
+    color: white;
+    border: none;
+    display: flex; /* אפשר למרכז את הטקסט בתוך הכפתור */
+    align-items: center; /* ממרכז את התוכן אנכית */
+    justify-content: center; /* ממרכז את התוכן אופקית */
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center; /* ממרכז את הטקסט בתוך הכפתור */
+}
+#myButton3 {
+    position: absolute; /* אפשר למקם אותו בצורה גמישה על הדף */
+    top:18%; /* מיקום מהקצה העליון */
+  
+    left: 23%; /* מיקום מהקצה השמאלי */
+    width: 180px; /* רוחב הכפתור */
+    height: 180px; /* גובה הכפתור */
+    border-radius: 50%; /* עיגול הכפתור */
+    background-color: #6cdbf9b5;
+    color: white;
+    border: none;
+    display: flex; /* אפשר למרכז את הטקסט בתוך הכפתור */
+    align-items: center; /* ממרכז את התוכן אנכית */
+    justify-content: center; /* ממרכז את התוכן אופקית */
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center; /* ממרכז את הטקסט בתוך הכפתור */
+}
